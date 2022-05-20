@@ -4,35 +4,15 @@
  * @FilePath: \vscode-react-generator\src\text\component.ts
  */
 export const pageFile = `
-<template>
-  <Layout>
-   
-  </Layout>
-</template>
-
-<script>
-export default {
-  name: '{pageName}',
-  components: {},
-  mixins: [],
-  created() {
-
-  },
-  data() {
-    return {
-    }
-  },
-  props: {
-   
-  },
-  methods: {
-   
-  },
-}
+<script setup>
+const pageName = {pageName}
 </script>
 
-<style>
+<template>
 
+</template>
+
+<style lang="postcss">
 </style>
 
 `;

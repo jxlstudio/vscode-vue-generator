@@ -53,7 +53,7 @@
       },
       {
         "command": "vue-generator.generator-page",
-        "title": "Create Gridsome Page"
+        "title": "Create Vue Page"
       }
     ],
     "menus": {

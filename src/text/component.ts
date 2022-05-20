@@ -4,33 +4,16 @@
  * @FilePath: \vscode-react-generator\src\text\component.ts
  */
 export const componentFile = `
-<template>
-  <div>
-   
-  </div>
-</template>
-
-<script>
-export default {
-  name: '{componentName}',
-  created() {
-
-  },
-  data() {
-    return {
-    }
-  },
-  props: {
-   
-  },
-  methods: {
-   
-  },
-}
+<script setup>
+const componentName = {componentName}
+defineProps([''])
 </script>
 
-<style>
+<template>
 
+</template>
+
+<style lang="postcss">
 </style>
 
 `;
