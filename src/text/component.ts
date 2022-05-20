@@ -14,6 +14,7 @@ defineProps([''])
 </template>
 
 <style lang="postcss">
+
 </style>
 
 `;

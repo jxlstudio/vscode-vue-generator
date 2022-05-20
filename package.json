@@ -2,7 +2,7 @@
   "name": "vue-generator",
   "displayName": "Vue Generator",
   "description": "A small extension that help you to create component's boilerplate",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "jxlstudio",
   "author": {
     "name": "jxlstudio",
